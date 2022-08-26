@@ -66,7 +66,6 @@
       // Sort the people alphabetically by last name
 
       const filterSeven = people.sort();
-      console.log(filterSeven);
   
       // 8. Reduce Exercise
       // Sum up the instances of each of these
